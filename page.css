@@ -1,0 +1,74 @@
+#intro {
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 30px;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+td, th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+tr {
+   border-bottom: 2px solid #bebebe;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+#links {
+    margin: auto;
+    text-align: center;
+}
+
+a:hover {
+    color: #002027;
+    text-decoration: underline;
+}
+
+.link {
+    font-family: Calibri;
+    margin: 0 150px;
+    text-decoration: none;
+    color: #777777;
+    font-size: 20px;
+}
+
+#introImageDiv {
+    border: 2px solid black;
+    height: 500px;
+    overflow: hidden;
+    background-image: url("./images/spotify.jpg");
+    background-size: 50%;
+    background-position: center;
+}
+
+#separator {
+    width: 80%;
+    margin: 60px auto;
+}
+
+#body {
+    font-family: Calibri;
+    margin-left: 80px;
+    margin-top: 40px;
+}
